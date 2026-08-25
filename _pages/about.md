@@ -2,16 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
+  Vanderbilt University. 
+  Nashville, Tennessee, USA
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>Vanderbilt University</p>
-    <p>Nashville, Tennessee, USA</p>
-    <p>Email: marren.jenkins.1@vanderbilt.edu</p>
+  image_circular: false # crops the image to make it circular
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
