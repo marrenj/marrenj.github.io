@@ -27,8 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. 
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page]({{ '/publications/' | relative_url }}) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am a researcher in the [Tovar Brain Inspired AI Lab](https://www.tovarlab.org/) at Vanderbilt University, where I study adaptive learning across human cognitive development and artificial neural networks. My work examines how learning dynamics unfold over time in both brains and models, with a particular focus on curriculum learning, human representational alignment, and critical periods in representation learning. I am especially interested in how biological and artificial systems respond to different forms of disruption across development or training, and how temporally-sensitive phases of learning influence what is acquired, what is lost, and what can be recovered. I bring prior experience in neuroimaging and clinical psychology research, including translational work in schizophrenia, which informs my interest in linking neural, behavioral, and computational levels of analysis to better understand brain function and dysfunction.
