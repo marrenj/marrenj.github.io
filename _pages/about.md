@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: 
-  Vanderbilt University. 
+  Vanderbilt University <br>
   Nashville, Tennessee, USA
 
 profile:
